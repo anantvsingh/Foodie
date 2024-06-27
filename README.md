@@ -18,11 +18,28 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-=>Dependencies:
+--->Dependencies:
+
 ->npm install
+
 ->npm install @react-navigation/native
+
 ->npm install @react-navigation/native-stack
+
 ->npm install @react-navigation/drawer
+
 ->npm install react-native-gesture-handler react-native-reanimated
+
 ->npm i react-native-vector-icons
+
 ->npm i @reduxjs/toolkit
+
+
+SCREENS:-
+
+
+
+
+
+https://github.com/anantvsingh/Foodie/assets/131752455/c1f277df-e20c-44ef-a85c-d8e344721093
+
